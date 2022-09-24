@@ -1,6 +1,5 @@
 import { Button } from "./Button";
 import { Field } from "./Field";
-import "./Formulario.css"
 
 export function Formulario() {
     return(
